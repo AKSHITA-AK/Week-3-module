@@ -42,7 +42,7 @@ Visual Studio Code (recommended) or any Java IDE
 
 How to Run
 Clone the repository:
-git clone https://github.com/your-username/your-repository-name.git
+git clone (https://github.com/AKSHITA-AK/Week-3-module)
 Open the project in Visual Studio Code.
 Compile the Java file:
 javac FileName.java
